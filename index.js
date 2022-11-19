@@ -7,8 +7,8 @@ const port = 3000
 
 AWS.config.update({
 	region:`us-east-1`,
-  accessKeyId:'AKIA5WPD7YLOJVEKJWND',
-  secretAccessKey:'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'
+  accessKeyId:'XXXXXXXXXXXXXXXXXXXXXX',
+  secretAccessKey:'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 });
 
 
